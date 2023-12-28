@@ -1,0 +1,1 @@
+select product,price*amount from orders

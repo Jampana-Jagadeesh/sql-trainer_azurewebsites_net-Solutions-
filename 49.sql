@@ -1,0 +1,1 @@
+select sum(price*amount) from orders

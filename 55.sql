@@ -1,0 +1,4 @@
+SELECT word
+FROM words
+ORDER BY word
+LIMIT 1 OFFSET 1;

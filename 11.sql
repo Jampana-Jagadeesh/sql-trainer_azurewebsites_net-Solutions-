@@ -1,0 +1,1 @@
+select distinct forename from names

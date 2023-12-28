@@ -1,0 +1,1 @@
+select count(distinct company) from employees
